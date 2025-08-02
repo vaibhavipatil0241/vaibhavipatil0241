@@ -15,7 +15,6 @@
 ## 👀 Interests
 
 - 💻 Java & Spring-Based Web Development  
-- 🌐 Full Stack App Development (Java + React)  
 - 📊 Machine Learning & Generative AI  
 - ☁️ Cloud Platforms (AWS, GCP)  
 - 🚀 Building real-world college & research projects  
