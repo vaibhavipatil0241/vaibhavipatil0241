@@ -8,7 +8,7 @@
 
 ### 🧠 My Coding Profiles:
 <p align="left">
-  <a href="https://www.codechef.com/users/sanikapatil21" target="_blank">
+  <a href="https://www.codechef.com/users/vaibhavi_0241" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" width="30" height="30"/>
   </a>
   <a href="https://leetcode.com/u/vaibhavi_patil_0241/" target="_blank">
