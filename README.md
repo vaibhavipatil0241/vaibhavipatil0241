@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Vaibhavi Patil</h1>
 
 <p align="center">
-  💡 Final Year CS Student | 💻 Java Full Stack Developer | 🌞 SolarTrack Project Creator
+  💡 Final Year Data Science Student | 💻 Java Full Stack Developer | 🤖 AIML & Data Science Enthusiast
 </p>
 
 <p align="center">
