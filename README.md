@@ -14,9 +14,7 @@
   <a href="https://github.com/vaibhavipatil0241">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+ 
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vaibhavipatil0241&color=6C63FF&style=flat-square&label=Profile+Views)
