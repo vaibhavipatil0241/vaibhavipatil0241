@@ -54,8 +54,8 @@ me.say_hi()
 <td width="50%">
 
 ### 🔮 ForecastIQ — MLOps Forecasting Platform
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/vaibhavipatil0241)
-[![Demo](https://img.shields.io/badge/Presentation-FF4500?style=flat-square&logo=youtube)](https://your-link.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/vaibhavipatil0241/ForecastIQ-End-to-End-MLOps-Pipeline)
+[![Demo](https://img.shields.io/badge/Presentation-FF4500?style=flat-square&logo=youtube)](https://drive.google.com/file/d/15TCw3yUny3En3pp6xJ2D2iyxdn66AUc1/view?usp=sharing)
 
 > End-to-end MLOps demand forecasting system with automated pipelines
 
@@ -67,8 +67,8 @@ me.say_hi()
 <td width="50%">
 
 ### 🧬 Skin Cancer Detection — Deep Learning
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/vaibhavipatil0241)
-[![Demo](https://img.shields.io/badge/Presentation-FF4500?style=flat-square&logo=youtube)](https://your-link.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/vaibhavipatil0241/Skin_Cancer_Prediction_Using_DeepLearning)
+[![Demo](https://img.shields.io/badge/Presentation-FF4500?style=flat-square&logo=youtube)](https://drive.google.com/file/d/10e38CLiUq-No0AtAOz2_xoniVU6rc4Wb/view?usp=sharing)
 
 > CNN-based dermoscopic image classifier with real-time prediction
 
@@ -82,8 +82,8 @@ me.say_hi()
 <td width="100%" colspan="2">
 
 ### 🎥 Generative AI YouTube Assistant — LangChain + RAG
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/vaibhavipatil0241)
-[![Demo](https://img.shields.io/badge/Presentation-FF4500?style=flat-square&logo=youtube)](https://your-link.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/vaibhavipatil0241/Generative-AI-Video-Assistant-using-LangChain)
+[![Demo](https://img.shields.io/badge/Presentation-FF4500?style=flat-square&logo=youtube)](https://drive.google.com/file/d/1rATLukUe6udsCXUYB-AhEKR3iX5Aj4HK/view?usp=sharing)
 
 > End-to-end GenAI assistant enabling natural language Q&A over YouTube videos
 
